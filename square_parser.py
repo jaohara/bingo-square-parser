@@ -132,21 +132,6 @@ if __name__ == "__main__":
 
     file.close()
 
-    """
-    if file_option == "a":
-        print("read (a)ll:")
-        print()
-        print(file.read())
-    elif file_option == "o":
-        print("read (o)ne:")
-        print()
-        print(file.readline())
-    elif file_option == "q":
-        break
-    else:
-        print("Sorry, that's not a valid option - (a)ll/(o)ne/(q)uit")
-    """
-
 
 
 
